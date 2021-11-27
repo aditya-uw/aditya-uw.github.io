@@ -2,8 +2,8 @@
   "name": "Aditya's Profile",
   "short_name": "Aditya's Profile",
   "lang": "en-us",
-  "theme_color": "#EF525B",
-  "background_color": "#EF525B",
+  "theme_color": "rgb(0, 136, 204)",
+  "background_color": "rgb(0, 136, 204)",
   "icons": [{
     "src": "/media/icon_hu9527b52c26fcb4f825d94edee1573e24_3505_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
