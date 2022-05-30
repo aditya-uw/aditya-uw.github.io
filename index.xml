@@ -5,12 +5,20 @@
     <link>https://aditya-uw.github.io/</link>
       <atom:link href="https://aditya-uw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Aditya&#39;s Profile</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 08:46:01 -0700</lastBuildDate>
     <image>
       <url>https://aditya-uw.github.io/media/icon_hu9527b52c26fcb4f825d94edee1573e24_3505_512x512_fill_lanczos_center_3.png</url>
       <title>Aditya&#39;s Profile</title>
       <link>https://aditya-uw.github.io/</link>
     </image>
+    
+    <item>
+      <title>My Talk Name</title>
+      <link>https://aditya-uw.github.io/talk/my-talk-name/</link>
+      <pubDate>Mon, 30 May 2022 08:46:01 -0700</pubDate>
+      <guid>https://aditya-uw.github.io/talk/my-talk-name/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
