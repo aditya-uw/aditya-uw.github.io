@@ -1,15 +1,15 @@
 {
-  "name": "Aditya's Profile",
-  "short_name": "Aditya's Profile",
+  "name": "Aditya @ UW",
+  "short_name": "Aditya @ UW",
   "lang": "en-us",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/icon_hu9527b52c26fcb4f825d94edee1573e24_3505_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu9c78ba8333a236bfa41332c3b6e9857b_3203_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu9527b52c26fcb4f825d94edee1573e24_3505_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu9c78ba8333a236bfa41332c3b6e9857b_3203_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
