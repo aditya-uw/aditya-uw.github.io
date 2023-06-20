@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arduino | Aditya @ UW</title><link>https://aditya-uw.github.io/tag/arduino/</link><atom:link href="https://aditya-uw.github.io/tag/arduino/index.xml" rel="self" type="application/rss+xml"/><description>Arduino</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://aditya-uw.github.io/media/icon_hub5d2f0d73fc5b165f21f8d90ebb3a5ea_17918_512x512_fill_lanczos_center_3.png</url><title>Arduino</title><link>https://aditya-uw.github.io/tag/arduino/</link></image><item><title>DXARTS 470 Final Project</title><link>https://aditya-uw.github.io/project/dxarts470_boxer/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/dxarts470_boxer/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>As a fan of the Netflix show &amp;lsquo;Daredevil&amp;rsquo;, I wanted to use Arduino and PureData to implement a set of boxing gloves that would help a blind person effectively be a boxer.&lt;/p>
+&lt;h3 id="materials">Materials:&lt;/h3>
+&lt;ul>
+&lt;li>Arduino board&lt;/li>
+&lt;li>IR Proximity sensor&lt;/li>
+&lt;li>Force/Pressure sensor&lt;/li>
+&lt;li>Arduino C/C++&lt;/li>
+&lt;li>PureData&lt;/li>
+&lt;li>Plenty of wires&lt;/li>
+&lt;/ul>
+&lt;h3 id="instructions">Instructions:&lt;/h3>
+&lt;ul>
+&lt;li>Attached a proximity sensor and a force sensor to 2 boxing gloves&lt;/li>
+&lt;li>Configured a script into my Arduino board with functions for each glove:
+&lt;ul>
+&lt;li>Play a sine wave with frequency dependent on proximity sensor readings&lt;/li>
+&lt;li>Play a &amp;ldquo;boing!&amp;rdquo; sound effect when the force sensor receives sufficient force&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Used laptop to run script while sensors were taking readings to run each function&lt;/li>
+&lt;li>Used plenty of wires connecting all components and wore laptop in a backpack to keep connections.&lt;/li>
+&lt;/ul>
+&lt;h3 id="photos">Photos:&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Sensors&lt;/th>
+&lt;th style="text-align:center">Costume&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./boxing_pic2_small.jpeg" alt="sensors" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/td>
+&lt;td style="text-align:center">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./boxing_pic1_small.jpeg" alt="costume" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simulation | Aditya @ UW</title><link>https://aditya-uw.github.io/tag/simulation/</link><atom:link href="https://aditya-uw.github.io/tag/simulation/index.xml" rel="self" type="application/rss+xml"/><description>Simulation</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://aditya-uw.github.io/media/icon_hub5d2f0d73fc5b165f21f8d90ebb3a5ea_17918_512x512_fill_lanczos_center_3.png</url><title>Simulation</title><link>https://aditya-uw.github.io/tag/simulation/</link></image><item><title>EE 331 Final Project</title><link>https://aditya-uw.github.io/project/ee331_converter/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/ee331_converter/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.&lt;/p>
+&lt;p>The functions of each component were as follows:&lt;/p>
+&lt;ul>
+&lt;li>Rectifier: Transforms 10V AC input signal to 10V DC signal with &amp;lt;1.0V ripple voltage.&lt;/li>
+&lt;li>Boost Topology: Uses duty-cycle input voltage from PWM to boost 10V DC input voltage up to 20V.&lt;/li>
+&lt;li>Voltage Regulator: Regulates output voltage to be between 10-20V while providing 0-1mA of current to load.&lt;/li>
+&lt;/ul>
+&lt;p>We first drew up a block diagram of the specifications for our project components. We then created and tested our circuit schematic on LTspice simulation software. We finally moved on to implementing our circuit on breadboard.&lt;/p>
+&lt;p>Disclaimer: We could not get all components to work together consistently as intended. However, each component functioned as expected independently.&lt;/p>
+&lt;h3 id="here-is-our-block-diagram-of-our-specific-components">Here is our block diagram of our specific components:&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./block_diagram.png" alt="block diagram" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="here-is-our-final-circuit">Here is our final circuit:&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./circuit.png" alt="circuit" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+Full-Wave Bridge Rectifier, PWM, Boost Converter, Voltage Regulator, Load (left to right)&lt;/p>
+&lt;p>Note: Not sure if sharing these pictures supports plagiarism but if you can get your circuit working by using the information I&amp;rsquo;ve shared here, you deserve the grade.&lt;/p>
+&lt;h2 id="acknowledgments">Acknowledgments:&lt;/h2>
+&lt;ul>
+&lt;li>I want to thank my group members&amp;ndash; Genie, Ewan, and Jarod &amp;ndash; for their tremendous support and dedication on this project. We worked together on the circuit several days from mornings to evenings.&lt;/li>
+&lt;li>I also want to thank TA Alana Dee for being patient and guiding us in our project.&lt;/li>
+&lt;li>I finally want to thank Professor Tai Chen for offering his support and clearly explaining project specs.&lt;/li>
+&lt;/ul></description></item></channel></rss>
