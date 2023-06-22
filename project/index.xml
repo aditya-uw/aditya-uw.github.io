@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Aditya @ UW</title><link>https://aditya-uw.github.io/project/</link><atom:link href="https://aditya-uw.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://aditya-uw.github.io/media/icon_hub5d2f0d73fc5b165f21f8d90ebb3a5ea_17918_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://aditya-uw.github.io/project/</link></image><item><title>BIOL 130 Final Project</title><link>https://aditya-uw.github.io/project/biol130_chalktalk/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/biol130_chalktalk/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Aditya @ UW</title><link>https://aditya-uw.github.io/project/</link><atom:link href="https://aditya-uw.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://aditya-uw.github.io/media/icon_hub5d2f0d73fc5b165f21f8d90ebb3a5ea_17918_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://aditya-uw.github.io/project/</link></image><item><title>BIOL 130 Final Project</title><link>https://aditya-uw.github.io/project/biol130_chalktalk/</link><pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/biol130_chalktalk/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
 &lt;p>Our final project assignment in this class was to read a paper of our choosing that is relevant to the field of Neuroscience and present about it as a &lt;a href="./johnshopkins_chalktalk.pdf">chalk talk&lt;/a>. My partner, &lt;a href="https://www.linkedin.com/in/jesus-segovia-594b12262" target="_blank" rel="noopener">Jesus Segovia&lt;/a>, and I decided to read Nicholas Bellono&amp;rsquo;s paper &lt;a href="https://doi.org/10.1038/s41586-018-0160-9" target="_blank" rel="noopener">&lt;em>Molecular tuning of electroreception in sharks and skates&lt;/em>&lt;/a>.&lt;/p>
 &lt;h2 id="main-takeaways">Main Takeaways:&lt;/h2>
 &lt;ol>
@@ -15,7 +15,37 @@
 &lt;h2 id="here-are-my-research-notesresearch_notespdf">&lt;strong>Here are my &lt;a href="./research_notes.pdf">research notes&lt;/a>&lt;/strong>&lt;/h2>
 &lt;h2 id="here-were-some-of-my-talking-pointsscriptpdf-for-the-talk">&lt;strong>Here were some of my &lt;a href="./script.pdf">talking points&lt;/a> for the talk&lt;/strong>&lt;/h2>
 &lt;h2 id="acknowledgements">Acknowledgements:&lt;/h2>
-&lt;p>I want to thank my professor Kyobi Skutt-Kakaria for assigning our final project as a chalk talk. This was a new experience and I enjoyed presenting research in this format.&lt;/p></description></item><item><title>DXARTS 470 Final Project</title><link>https://aditya-uw.github.io/project/dxarts470_boxer/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/dxarts470_boxer/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>I want to thank my professor Kyobi Skutt-Kakaria for assigning our final project as a chalk talk. This was a new experience and I enjoyed presenting research in this format.&lt;/p></description></item><item><title>EE 331 Final Project</title><link>https://aditya-uw.github.io/project/ee331_converter/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/ee331_converter/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.&lt;/p>
+&lt;p>The functions of each component were as follows:&lt;/p>
+&lt;ul>
+&lt;li>Rectifier: Transforms 10V AC input signal to 10V DC signal with &amp;lt;1.0V ripple voltage.&lt;/li>
+&lt;li>Boost Topology: Uses duty-cycle input voltage from PWM to boost 10V DC input voltage up to 20V.&lt;/li>
+&lt;li>Voltage Regulator: Regulates output voltage to be between 10-20V while providing 0-1mA of current to load.&lt;/li>
+&lt;/ul>
+&lt;p>We first drew up a block diagram of the specifications for our project components. We then created and tested our circuit schematic on LTspice simulation software. We finally moved on to implementing our circuit on breadboard.&lt;/p>
+&lt;p>Disclaimer: We could not get all components to work together consistently as intended. However, each component functioned as expected independently.&lt;/p>
+&lt;h3 id="here-is-our-block-diagram-of-our-specific-components">Here is our block diagram of our specific components:&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./block_diagram.png" alt="block diagram" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="here-is-our-final-circuit">Here is our final circuit:&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./circuit.png" alt="circuit" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+Full-Wave Bridge Rectifier, PWM, Boost Converter, Voltage Regulator, Load (left to right)&lt;/p>
+&lt;p>Note: Not sure if sharing these pictures supports plagiarism but if you can get your circuit working by using the information I&amp;rsquo;ve shared here, you deserve the grade.&lt;/p>
+&lt;h2 id="acknowledgments">Acknowledgments:&lt;/h2>
+&lt;ul>
+&lt;li>I want to thank my group members&amp;ndash; Genie, Ewan, and Jarod &amp;ndash; for their tremendous support and dedication on this project. We worked together on the circuit several days from mornings to evenings.&lt;/li>
+&lt;li>I also want to thank TA Alana Dee for being patient and guiding us in our project.&lt;/li>
+&lt;li>I finally want to thank Professor Tai Chen for offering his support and clearly explaining project specs.&lt;/li>
+&lt;/ul></description></item><item><title>DXARTS 470 Final Project</title><link>https://aditya-uw.github.io/project/dxarts470_boxer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/dxarts470_boxer/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
 &lt;p>As a fan of the Netflix show &amp;lsquo;Daredevil&amp;rsquo;, I wanted to use Arduino and PureData to build a costume based on a futuristic blind boxer whose gloves would be equipped with sensors allowing them to fight.&lt;/p>
 &lt;h3 id="materials">Materials:&lt;/h3>
 &lt;ul>
@@ -63,34 +93,4 @@
 &lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>EE 331 Final Project</title><link>https://aditya-uw.github.io/project/ee331_converter/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://aditya-uw.github.io/project/ee331_converter/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
-&lt;p>For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.&lt;/p>
-&lt;p>The functions of each component were as follows:&lt;/p>
-&lt;ul>
-&lt;li>Rectifier: Transforms 10V AC input signal to 10V DC signal with &amp;lt;1.0V ripple voltage.&lt;/li>
-&lt;li>Boost Topology: Uses duty-cycle input voltage from PWM to boost 10V DC input voltage up to 20V.&lt;/li>
-&lt;li>Voltage Regulator: Regulates output voltage to be between 10-20V while providing 0-1mA of current to load.&lt;/li>
-&lt;/ul>
-&lt;p>We first drew up a block diagram of the specifications for our project components. We then created and tested our circuit schematic on LTspice simulation software. We finally moved on to implementing our circuit on breadboard.&lt;/p>
-&lt;p>Disclaimer: We could not get all components to work together consistently as intended. However, each component functioned as expected independently.&lt;/p>
-&lt;h3 id="here-is-our-block-diagram-of-our-specific-components">Here is our block diagram of our specific components:&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./block_diagram.png" alt="block diagram" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h3 id="here-is-our-final-circuit">Here is our final circuit:&lt;/h3>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./circuit.png" alt="circuit" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-Full-Wave Bridge Rectifier, PWM, Boost Converter, Voltage Regulator, Load (left to right)&lt;/p>
-&lt;p>Note: Not sure if sharing these pictures supports plagiarism but if you can get your circuit working by using the information I&amp;rsquo;ve shared here, you deserve the grade.&lt;/p>
-&lt;h2 id="acknowledgments">Acknowledgments:&lt;/h2>
-&lt;ul>
-&lt;li>I want to thank my group members&amp;ndash; Genie, Ewan, and Jarod &amp;ndash; for their tremendous support and dedication on this project. We worked together on the circuit several days from mornings to evenings.&lt;/li>
-&lt;li>I also want to thank TA Alana Dee for being patient and guiding us in our project.&lt;/li>
-&lt;li>I finally want to thank Professor Tai Chen for offering his support and clearly explaining project specs.&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/table></description></item></channel></rss>
