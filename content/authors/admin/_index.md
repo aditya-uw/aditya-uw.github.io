@@ -1,9 +1,6 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Aditya Krishna
+title: Aditya Krishna
 
 # Full name (for SEO)
 first_name: Aditya
