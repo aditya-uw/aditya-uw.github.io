@@ -36,42 +36,22 @@ profiles:
     url: https://www.linkedin.com/in/adkris1002/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Signal Processing
+  - Echolocation/Bioacoustics
+  - Passive Acoustic Monitoring
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.77/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Concentrations:
+      - Neural Engineering
+      - Digital Signal Processing
+      - Machine Learning
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -172,4 +152,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a student at the University of Washington majoring in Electrical Engineering and pursuing Digital Signal Processing and Neural Engineering concentrations. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
+
+My core competency is in programming, with an expertise in Python and Java. I am currently applying signal processing techniques in passive acoustic monitoring of bats with a goal toward ecological conservation.
+
+At [Echospace](https://uw-echospace.github.io), I am investigating duty cycle-based subsampling for passive acoustic monitoring to understand how the observations drawn from acoustic bat activity are influenced by subsampling parameters. We collect our echolocation data from local bat colonies by deploying autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)), at the Union Bay Natural Area right by the UW's football stadium.
+
+Feel free to ask me any questions at my email on pursuing research as an undergraduate!
