@@ -4,9 +4,9 @@ title: ""
 date: 2022-10-24
 type: landing
 
-design:
-  # Default section spacing
-  spacing: "6rem"
+# design:
+#   # Default section spacing
+#   spacing: "6rem"
 
 sections:
   - block: resume-biography-3
@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: minimal
+      css_class: purple
       background:
-        color: blue
+        color: white
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
