@@ -5,10 +5,8 @@
 
 # Appearance
 appearance:
-  font: minimal
   mode: system
   theme: minimal
-  color: blue
 
 # SEO
 marketing:
