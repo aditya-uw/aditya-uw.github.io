@@ -38,7 +38,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Me'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
