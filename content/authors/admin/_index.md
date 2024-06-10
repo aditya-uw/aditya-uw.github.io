@@ -25,11 +25,13 @@ organizations:
 profiles:
   - icon: envelope
     url: 'mailto:adkris@uw.edu'
-    label: E-mail Me
+    label: email!
   - icon: brands/github
     url: https://github.com/aditya-uw
+    label: code!
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/adkris1002/
+    url: https://www.linkedin.com/in/aditya-uw/
+    label: linkedin!
 
 interests:
   - Digital Signal Processing
