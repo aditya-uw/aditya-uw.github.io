@@ -5,7 +5,4 @@ go 1.19
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231209203044-d31adfedd40b
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602133901-492e343c2a33
-
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.0
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220322212951-5a882fab11ac // indirect
 )
