@@ -59,10 +59,7 @@ work:
     date_start: 2021-09-01
     date_end: 2024-06-08
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       ● Collected field data on bat calls for application of machine learning tools.<br>● Working alongside Dr. Wu-Jung Lee on research and data analysis.<br>● Participating in monthly journal briefings and weekly project updates.
 
 # Awards.
 #   Add/remove as many awards below as you like.
