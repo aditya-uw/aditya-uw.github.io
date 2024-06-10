@@ -48,11 +48,12 @@ education:
       - Neural Engineering
       - Digital Signal Processing
       - Machine Learning
+
 work:
   - position: Undergraduate Research Assistant
     company_name: Applied Physics Laboratories
     company_url: ''
-    company_logo: ''
+    company_logo: 'apl'
     date_start: 2021-09-01
     date_end: 2024-06-08
     summary: |
