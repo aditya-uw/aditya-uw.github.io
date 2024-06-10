@@ -4,7 +4,15 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-theme: minimal
+# appearance:
+#   mode: system
+#   color: emerald
+design:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 
 # SEO
 marketing:
@@ -31,7 +39,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: false
+    show_theme_chooser: true
     logo:
       text: "Personal Website"
 

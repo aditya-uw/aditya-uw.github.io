@@ -74,12 +74,6 @@ awards:
     summary: |
        ● Awarded for research project of investigating duty cycle-based subsampling for passive acoustic bat monitoring.<br>● Here is [the project talk](https://aditya-uw.github.io/talk/investigation-of-duty-cycles-in-passive-acoustic-bat-monitoring/) I gave at the UW's 26th undergraduate research symposium.
 
-design:
-  background:
-    # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
 ---
 
 ## About Me
