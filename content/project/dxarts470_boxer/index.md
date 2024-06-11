@@ -14,9 +14,6 @@ image:
   caption: ''
   focal_point: Smart
 
-# Display this page in the Featured widget?
-featured: true
-
 # links:
 # - icon: twitter
 #   icon_pack: fab
