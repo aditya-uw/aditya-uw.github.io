@@ -36,7 +36,7 @@ url_video: ""
 slides: ""
 ---
 
-<!-- ### Description:
+### Description:
 The EE 400 TinyML course taught by Professor Radha Poovendran was a fantastic opportunity to study embedded machine learning and become acquainted with several applications in the rising field of TinyML to develop smart edge devices capable of doing on-board inference. My partner, [Pujan Patel](https://www.linkedin.com/in/pujan-patel-0535a1217/), and I decided to develop a rain prediction system using the Arduino Nano 33 BLE to read low-cost environmental variables such as temperature, pressure, and relative humidity and predict the occurence of rain in the coming period. 
 
 We prototyped this project into the deployment stage where we used rechargeable batteries along with a weatherproof box to deploy our system on a tree where it would transmit Bluetooth Low-Energy (BLE) notifications to connected smartphones on whether it would rain in the next 30 minutes.
@@ -51,9 +51,9 @@ The dataset we used to train and evaluate our model was collected by the Univers
 - Weatherproof box, rubber cord, and rechargeable batteries
 
 ### GitHub Repository: 
-https://github.com/aditya-uw/WeatherPatrol
+https://github.com/aditya-uw/MyoGrind
 
 ### [Project Slides](./presentation.pdf)
 
 ### Acknowledgements:
-I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project. -->
+I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project.
