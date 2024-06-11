@@ -29,6 +29,7 @@ sections:
           - publication
         featured_only: true
     design:
+      spacing: "5rem"
       view: article-grid
       columns: 2
 ---
