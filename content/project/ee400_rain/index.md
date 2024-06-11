@@ -53,7 +53,7 @@ The dataset we used to train and evaluate our model was collected by the Univers
 ### GitHub Repository: 
 https://github.com/aditya-uw/WeatherPatrol
 
-### Project Slides](./presentation.pdf)
+### [Project Slides](./presentation.pdf)
 
 ### Acknowledgements:
 I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project.
