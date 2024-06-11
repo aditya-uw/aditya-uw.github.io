@@ -23,7 +23,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/apl
+  - icon: envelope
     url: 'mailto:adkris@uw.edu'
     label: email!
   - icon: brands/github
@@ -50,6 +50,7 @@ work:
   - position: Undergraduate Research Assistant
     company_name: Applied Physics Laboratory
     company_url: ''
+    icon: custom/apl
     date_start: 2021-09-01
     date_end: 2024-06-08
     summary: |
@@ -64,6 +65,7 @@ awards:
     url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
     date: '2022-12-16'
     awarder: Mary Gates Endowment for Students
+    icon: custom/mgrs
     summary: |
        • Awarded for research project of investigating duty cycle-based subsampling for passive acoustic bat monitoring.<br>• Here is [the project talk](https://aditya-uw.github.io/talk/investigation-of-duty-cycles-in-passive-acoustic-bat-monitoring/) I gave at the UW's 26th undergraduate research symposium.
 
