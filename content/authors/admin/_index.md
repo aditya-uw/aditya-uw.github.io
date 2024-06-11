@@ -34,9 +34,9 @@ profiles:
     label: linkedin!
 
 interests:
-  - Digital Signal Processing
-  - Echolocation/Bioacoustics
-  - Passive Acoustic Monitoring
+  - Animal Echolocation
+  - Machine Learning / Data Science
+  - Auditory Processes and Acoustics
 
 education:
   - area: BS in Electrical Engineering
