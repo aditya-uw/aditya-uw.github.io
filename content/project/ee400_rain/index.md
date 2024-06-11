@@ -41,13 +41,18 @@ The EE 400 TinyML course taught by Professor Radha Poovendran was a fantastic op
 
 We prototyped this project into the deployment stage where we used rechargeable batteries along with a weatherproof box to deploy our system on a tree where it would transmit Bluetooth Low-Energy (BLE) notifications to connected smartphones on whether it would rain in the next 30 minutes.
 
-
 ### Materials:
-
 - Arduino Nano 33 BLE
 - BME680 environmental sensor
 - LightBlue app on smartphone
 - Weatherproof box, rubber cord, and rechargeable batteries
 
-### GitHub Codebase: 
+### GitHub Repository: 
 https://github.com/aditya-uw/WeatherPatrol
+
+### [Project Slides](./presentation.pdf)
+
+### [Project Report](./report.pdf)
+
+### Acknowledgements:
+I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project.
