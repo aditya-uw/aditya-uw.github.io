@@ -41,6 +41,9 @@ The EE 400 TinyML course taught by Professor Radha Poovendran was a fantastic op
 
 We prototyped this project into the deployment stage where we used rechargeable batteries along with a weatherproof box to deploy our system on a tree where it would transmit Bluetooth Low-Energy (BLE) notifications to connected smartphones on whether it would rain in the next 30 minutes.
 
+### [Dataset](http://www-k12.atmos.washington.edu/k12/grayskies/nw_weather.html):
+The dataset we used to train and evaluate our model was collected by the University of Washington's Atmospheric Sciences Department. This data was collected by the department's rooftop weather station in 1-minute intervals from July 1999. We greatly acknowledge this dataset and encourage students to leverage existing datasets for their own ML projects!
+
 ### Materials:
 - Arduino Nano 33 BLE
 - BME680 environmental sensor
@@ -50,7 +53,7 @@ We prototyped this project into the deployment stage where we used rechargeable 
 ### GitHub Repository: 
 https://github.com/aditya-uw/WeatherPatrol
 
-### **[Project Slides](./presentation.pdf)**
+### Project Slides](./presentation.pdf)
 
 ### Acknowledgements:
 I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project.
