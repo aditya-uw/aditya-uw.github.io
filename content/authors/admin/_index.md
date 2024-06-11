@@ -39,17 +39,10 @@ interests:
   - Passive Acoustic Monitoring
 
 education:
-  - area: BSc Electrical Engineering
+  - area: BS in Electrical Engineering
     institution: University of Washington, Seattle
     date_start: 2020-09-25
     date_end: 2024-06-08
-    summary: |
-      GPA: 3.77/4.0
-      
-      Concentrations:
-      - Neural Engineering
-      - Digital Signal Processing
-      - Machine Learning
 
 work:
   - position: Undergraduate Research Assistant
