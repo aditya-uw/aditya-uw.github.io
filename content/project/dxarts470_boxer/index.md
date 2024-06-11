@@ -32,7 +32,7 @@ url_video: ""
 slides: ""
 ---
 
-## Description:
+### Description:
 
 As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData to build a costume based on a futuristic blind boxer whose gloves would be equipped with sensors allowing them to fight.
 

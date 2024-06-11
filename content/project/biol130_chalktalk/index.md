@@ -35,11 +35,11 @@ url_video: ""
 slides: ""
 ---
 
-## Description:
+### Description:
 
 Our final project assignment in this class was to read a paper of our choosing that is relevant to the field of Neuroscience and present about it as a [chalk talk](./johnshopkins_chalktalk.pdf). My partner, [Jesus Segovia](https://www.linkedin.com/in/jesus-segovia-594b12262), and I decided to read Nicholas Bellono's paper [*Molecular tuning of electroreception in sharks and skates*](https://doi.org/10.1038/s41586-018-0160-9).
 
-## Main Takeaways:
+### Main Takeaways:
 
 1) Sharks and Skates detect changes in external electric fields using electrosensory cells contained inside dermal pores around their rostrums. The cells can be found in specialized vessels known as Ampullae of Lorenzini.
 2) These electrosensory cells use voltage-gated potassium channels to depolarize in response to electric stimulus that travels from the environment into the Ampullae of Lorenzini.
@@ -54,6 +54,6 @@ Our final project assignment in this class was to read a paper of our choosing t
 **Here are my [research notes](./research_notes.pdf)**
 **Here were some of my [talking points](./script.pdf) for the talk**
 
-## Acknowledgements:
+### Acknowledgements:
 
 I want to thank my professor Kyobi Skutt-Kakaria for assigning our final project as a chalk talk. This was a new experience and I enjoyed presenting research in this format.
