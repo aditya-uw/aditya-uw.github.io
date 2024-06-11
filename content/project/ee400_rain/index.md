@@ -49,4 +49,5 @@ We prototyped this project into the deployment stage where we used rechargeable 
 - LightBlue app on smartphone
 - Weatherproof box, rubber cord, and rechargeable batteries
 
-### GitHub Codebase: https://github.com/aditya-uw/WeatherPatrol
+### GitHub Codebase: 
+https://github.com/aditya-uw/WeatherPatrol
