@@ -50,9 +50,7 @@ We prototyped this project into the deployment stage where we used rechargeable 
 ### GitHub Repository: 
 https://github.com/aditya-uw/WeatherPatrol
 
-### [Project Slides](./presentation.pdf)
-
-### [Project Report](./report.pdf)
+### **[Project Slides](./presentation.pdf)**
 
 ### Acknowledgements:
 I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project.
