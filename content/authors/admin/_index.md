@@ -64,7 +64,6 @@ awards:
     url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
     date: '2022-12-16'
     awarder: Mary Gates Endowment for Students
-    icon: custom/apl
     summary: |
        • Awarded for research project of investigating duty cycle-based subsampling for passive acoustic bat monitoring.<br>• Here is [the project talk](https://aditya-uw.github.io/talk/investigation-of-duty-cycles-in-passive-acoustic-bat-monitoring/) I gave at the UW's 26th undergraduate research symposium.
 
