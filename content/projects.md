@@ -5,14 +5,14 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '0rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Capstone Projects
-      text: These were senior capstone projects that needed to be ideated, proposed, and prototyped over a 10-week quarter.
+      title: Class Projects
+      text: ""
       filters:
         folders:
           - project

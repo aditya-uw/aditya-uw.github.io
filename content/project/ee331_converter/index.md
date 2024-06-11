@@ -14,9 +14,6 @@ image:
   caption: 'Group AC (left to right): Nattapon Oonlamom (Genie), Ewan Lister, Jarod Marshel, and Aditya Krishna'
   focal_point: Smart
 
-# Display this page in the Featured widget?
-featured: true
-
 # links:
 # - icon: twitter
 #   icon_pack: fab
