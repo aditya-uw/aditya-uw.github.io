@@ -20,6 +20,9 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: minimal
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: papers
     content:
