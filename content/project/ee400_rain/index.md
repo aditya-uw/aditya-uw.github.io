@@ -2,9 +2,9 @@
 title: WeatherPatrol
 summary: 'A TinyML Rain Prediction System using the Arduino Nano 33 BLE'
 tags:
+- Machine Learning
 - Research
 - Class Projects
-- Machine Learning
 date: "2024-06-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
