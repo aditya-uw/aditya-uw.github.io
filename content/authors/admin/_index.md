@@ -44,8 +44,7 @@ education:
     date_start: 2020-09-25
     date_end: 2024-06-08
     summary: |      
-      Concentrations:
-      • Neural Engineering<br>• Digital Signal Processing
+      Concentrations:<br>• Neural Engineering<br>• Digital Signal Processing
 
 work:
   - position: Undergraduate Research Assistant
