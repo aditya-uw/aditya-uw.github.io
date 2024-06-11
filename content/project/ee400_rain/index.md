@@ -1,5 +1,5 @@
 ---
-title: WeatherPatrol: TinyML Rain Prediction
+title: WeatherPatrol
 summary: 'A TinyML Rain Prediction System using the Arduino Nano 33 BLE with BME680 sensor'
 tags:
 - Research
