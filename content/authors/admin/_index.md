@@ -78,8 +78,8 @@ awards:
 
 ## About Me
 
-I am a student at the University of Washington majoring in Electrical Engineering and pursuing Digital Signal Processing and Neural Engineering concentrations. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
+I am finishing my undergraduate studies at the University of Washington in Electrical and Computer Engineering with concentrations in Neural Engineering and Signal Processing. My research interests are in acoustics, auditory neuroscience, and machine learning to develop bio-inspired sensing algorithms.
 
-My core competency is in programming, with an expertise in Python and Java. I am currently applying signal processing techniques in passive acoustic monitoring of bats with a goal toward ecological conservation.
+I will be joining the University of Washington's ECE PhD program this Fall under Professor Wu-Jung Lee at the Applied Physics Laboratories where I hope to use my background in using data-driven methods to investigate subsampling for passive acoustic monitoring of echolocating bats. I also look forward to applying my undergraduate experience to study the auditory and sensorimotor processes in echolocation for animals like bats and dolphins.
 
 Feel free to ask me any questions at my email on pursuing research as an undergraduate!
