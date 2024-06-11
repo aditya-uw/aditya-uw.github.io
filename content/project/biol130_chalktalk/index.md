@@ -3,7 +3,6 @@ title: BIOL 130 Final Project
 summary: A chalk talk presentation on electroreception in Sharks and Skates.
 tags:
 - Sensory Biology & Neuroscience
-- Research
 - Class Projects
 date: "2023-05-30T00:00:00Z"
 

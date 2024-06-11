@@ -2,10 +2,10 @@
 title: MyoGrind
 summary: 'A Prototype Device for Bruxism Management'
 tags:
+- Senior Capstone Project
 - Class Projects
 - EMG-Based Device
 - Arduino-Based System
-- Senior Capstone Project
 date: "2024-06-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

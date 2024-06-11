@@ -2,8 +2,7 @@
 title: DXARTS 470 Final Project
 summary: A costume for a blind boxer.
 tags:
-- Arduino
-- Programming
+- Arduino-Based System
 - Class Projects
 date: "2021-08-19T00:00:00Z"
 
