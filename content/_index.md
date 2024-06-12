@@ -36,11 +36,11 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Featured Talks
+      title: Research Talks
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---
