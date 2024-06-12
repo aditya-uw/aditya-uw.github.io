@@ -42,7 +42,7 @@ featured: true
 #    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: ''
-slides: './AK_20230519_symposium.pdf'
+url_slides: AK_20230519_symposium.pdf
 #url_video: ''
 
 # Markdown Slides (optional).
