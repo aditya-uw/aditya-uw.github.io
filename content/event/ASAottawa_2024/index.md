@@ -27,7 +27,7 @@ all_day: false
 authors: 
   - admin
   - Wu-Jung Lee
-tags: [bioacoustics, passive acoustic monitoring, machine learning]
+tags: [passive acoustic monitoring, bioacoustics, machine learning]
 
 # Is this a featured talk? (true/false)
 featured: true

@@ -26,7 +26,7 @@ all_day: false
 
 authors: 
   - admin
-tags: [bioacoustics, passive acoustic monitoring, machine learning]
+tags: [passive acoustic monitoring, machine learning]
 
 # Is this a featured talk? (true/false)
 featured: true
