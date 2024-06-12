@@ -34,12 +34,12 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: talks
     content:
       title: Featured Talks
       filters:
         folders:
-          - talks
-        featured_only: true
+          - event
     design:
       view: article-grid
       columns: 2
