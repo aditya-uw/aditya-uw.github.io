@@ -32,7 +32,8 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/aditya-uw/
     label: linkedin!
-  - icon: fas/paw
+  - icon: paw
+    icon_pack: fas
     url: https://wildlabs.net/members/adkris1002
     label: wildlabs.net!
 
