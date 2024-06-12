@@ -33,4 +33,14 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    content:
+      title: Featured Talks
+      filters:
+        folders:
+          - talks
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
 ---
