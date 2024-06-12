@@ -33,7 +33,8 @@ profiles:
     url: https://www.linkedin.com/in/aditya-uw/
     label: linkedin!
   - icon: fas/paw
-    link: https://wildlabs.net/members/adkris1002
+    url: https://wildlabs.net/members/adkris1002
+    label: wildlabs.net!
 
 interests:
   - Animal Echolocation
