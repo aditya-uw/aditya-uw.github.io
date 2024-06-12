@@ -24,12 +24,11 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
-    id: papers
     content:
       title: Featured Projects
       filters:
         folders:
-          - project
+          - projects
         featured_only: true
     design:
       view: article-grid
