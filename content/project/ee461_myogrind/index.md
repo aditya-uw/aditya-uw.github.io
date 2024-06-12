@@ -6,7 +6,7 @@ tags:
 - Class Projects
 - EMG-Based Device
 - Arduino-Based System
-date: "2024-06-04T00:00:00Z"
+date: "2024-06-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,23 +37,23 @@ slides: ""
 ---
 
 ### Description:
-The EE 400 TinyML course taught by Professor Radha Poovendran was a fantastic opportunity to study embedded machine learning and become acquainted with several applications in the rising field of TinyML to develop smart edge devices capable of doing on-board inference. My partner, [Pujan Patel](https://www.linkedin.com/in/pujan-patel-0535a1217/), and I decided to develop a rain prediction system using the Arduino Nano 33 BLE to read low-cost environmental variables such as temperature, pressure, and relative humidity and predict the occurence of rain in the coming period. 
+The EE 461 Neural Engineering Tech Studio taught by Professor Kim Ingraham was a fantastic opportunity to study transdisciplinary engineering principles in designing a closed-loop neural engineering product. My group of 5 members came together and ideated a system that would help users manage and reduce their teeth grinding/clenching habits. 
 
-We prototyped this project into the deployment stage where we used rechargeable batteries along with a weatherproof box to deploy our system on a tree where it would transmit Bluetooth Low-Energy (BLE) notifications to connected smartphones on whether it would rain in the next 30 minutes.
+Bruxism is a common condition consisting of teeth grinding/clenching which can lead to pain and dental damage. We wished to make a system that incorporated vibro-tactile stimulation to reduce teeth-grinding occurence. However, through interviews we conducted, we realized that many people suffering from Bruxism would find it very beneficial to even just be notified when they are teeth-grinding. This key information helped us pivot into designing a prototype that focused on simply notifying its users so they can manage their habits themselves.
 
-### [Dataset](http://www-k12.atmos.washington.edu/k12/grayskies/nw_weather.html):
-The dataset we used to train and evaluate our model was collected by the University of Washington's Atmospheric Sciences department. The department's rooftop weather station has been collecting data every minute since July 1999. We acknowledge this dataset and encourage students to leverage existing datasets for their ML projects!
+Thus, we proposed and prototyped an EMG-based device that would detect teeth-grinding events and provide notifications over bluetooth along with vibro-tactile stimulation so users can be aware of their teeth-grinding habits and be directed towards the necessary measures to reduce their bruxism.
 
 ### Materials:
-- Arduino Nano 33 BLE
-- BME680 environmental sensor
-- LightBlue app on smartphone
-- Weatherproof box, rubber cord, and rechargeable batteries
+- Arduino Uno R4 WiFi
+- MyoWare 2.0 Muscle Sensor Ecosystem
+- LightBlue app for BLE notifications
+- Electronics container, hairbands, and zip-ties
 
 ### GitHub Repository: 
 https://github.com/aditya-uw/MyoGrind
 
-### [Project Slides](./presentation.pdf)
+### Our team won the showcase!
+![Group Photo](./group_photo.JPG)
 
 ### Acknowledgements:
-I want to first thank my partner Pujan Patel for helping me develop this project. I also want to thank Professor Poovendran for teaching a fantastic course reviewing the many applications and fundamentals of TinyML. Finally, I want to thank the ECE department for providng reimbursements for the expenses of our project.
+I want to first thank my group members for their incredible effort in this project. I also want to thank Professor Ingraham for teaching a great course and providing the opportunity to practice transdisciplinary design principles by ideating and prototyping a closed-loop neural product. Finally, I want to thank the ECE department for providing reimbursements for the expenses of our project.
