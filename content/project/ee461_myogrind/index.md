@@ -52,7 +52,7 @@ Thus, we proposed and prototyped an EMG-based device that would detect teeth-gri
 ### GitHub Repository: 
 https://github.com/aditya-uw/MyoGrind
 
-**Our team won the showcase!** 
+### Our team won the showcase!:
 ![Group Photo](./group_photo.JPG)
 Group MyoGrind (left to right): Poojitha Arangam, Elijah Reeb, Aditya Krishna, Frenda Lin, and Emily Rodgers
 
