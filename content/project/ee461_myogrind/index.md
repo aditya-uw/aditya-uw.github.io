@@ -37,7 +37,7 @@ slides: ""
 ---
 
 ### Description:
-The EE 461 Neural Engineering Tech Studio taught by Professor Kim Ingraham was a fantastic opportunity to study transdisciplinary engineering principles in designing a closed-loop neural engineering product. My group of 5 members came together and ideated a system that would help users manage and reduce their teeth grinding/clenching habits. 
+The EE 461 Neural Engineering Tech Studio taught by Professor Kim Ingraham was a fast-paced design course with the goal to ideate, build, and pitch a closed-loop neural product to a panel of industry experts and medical professionals in a end-of-course competition. My group of 5 members came together and ideated a system that would help users manage and reduce their teeth grinding/clenching habits. 
 
 Bruxism is a common condition consisting of teeth grinding/clenching which can lead to pain and dental damage. We wished to make a system that incorporated vibro-tactile stimulation to reduce teeth-grinding occurence. However, through interviews we conducted, we realized that many people suffering from Bruxism would find it very beneficial to even just be notified when they are teeth-grinding. This key information helped us pivot into designing a prototype that focused on simply notifying its users so they can manage their habits themselves.
 
@@ -52,7 +52,7 @@ Thus, we proposed and prototyped an EMG-based device that would detect teeth-gri
 ### GitHub Repository: 
 https://github.com/aditya-uw/MyoGrind
 
-### Our team won the showcase!:
+### Our team won the showcase!
 ![Group Photo](./group_photo.JPG)
 Group MyoGrind (left to right): Poojitha Arangam, Elijah Reeb, Aditya Krishna, Frenda Lin, and Emily Rodgers
 
