@@ -52,8 +52,7 @@ Thus, we proposed and prototyped an EMG-based device that would detect teeth-gri
 ### GitHub Repository: 
 https://github.com/aditya-uw/MyoGrind
 
-### Our team won the showcase!:
-![Group Photo](./group_photo.JPG "Group MyoGrind (left to right): Poojitha Arangam, Elijah Reeb, Aditya Krishna, Frenda Lin, and Emily Rodgers")
+**Our team won the showcase!:** ![Group Photo](./group_photo.JPG "Group MyoGrind (left to right): Poojitha Arangam, Elijah Reeb, Aditya Krishna, Frenda Lin, and Emily Rodgers")
 
 ### Acknowledgements:
 I want to first thank my group members for their incredible effort in this project. I also want to thank Professor Ingraham for teaching a great course and providing the opportunity to practice transdisciplinary design principles by ideating and prototyping a closed-loop neural product. Finally, I want to thank the ECE department for providing reimbursements for the expenses of our project.
