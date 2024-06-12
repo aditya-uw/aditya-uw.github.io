@@ -32,7 +32,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/aditya-uw/
     label: linkedin!
-  - icon: paw
+  - icon: fas/paw
     link: https://wildlabs.net/members/adkris1002
 
 interests:
