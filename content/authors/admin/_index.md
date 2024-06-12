@@ -67,19 +67,19 @@ awards:
     date: '2024-04-16'
     awarder: Office of Undergraduate Research
     summary: |
-       • Awarded for acceptance of presentation at the Acoustical Soceity of America conference as an undergraduate student<br>• Here is [the conference presentation](https://aditya-uw.github.io/event/asaottawa_2024/) that was given
+       • Awarded for acceptance of presentation at the Acoustical Soceity of America conference as an undergraduate student
   - title: ECE DEI Conference Travel Award
     url: ''
     date: '2024-04-16'
     awarder: Electrical and Computer Engineering DEI Committee
     summary: |
-       • Awarded for increasing the investment in Diversity, Equity, and Inclusion (DEI) at the Acoustical Soceity of America conference<br>• Here is [the conference presentation](https://aditya-uw.github.io/event/asaottawa_2024/) that was given
+       • Awarded for increasing the investment in Diversity, Equity, and Inclusion (DEI) at the Acoustical Soceity of America conference
   - title: Mary Gates Research Scholarship
     url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
     date: '2022-12-16'
     awarder: Mary Gates Endowment for Students
     summary: |
-       • Awarded for research project of investigating duty cycle-based subsampling for passive acoustic bat monitorings<br>• Here is [the project talk](https://aditya-uw.github.io/talk/investigation-of-duty-cycles-in-passive-acoustic-bat-monitoring/) I gave at the UW's 26th undergraduate research symposium
+       • Awarded for research project of investigating duty cycle-based subsampling for passive acoustic bat monitorings
 
 ---
 
