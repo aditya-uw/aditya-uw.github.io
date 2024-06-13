@@ -88,6 +88,6 @@ awards:
 
 I am finishing my undergraduate degree at the University of Washington as an Electrical Engineering student with a concentration in Neural Engineering. My research interests are in acoustics, auditory neuroscience, and machine learning to develop bio-inspired sensing algorithms.
 
-I will be joining the University of Washington's ECE PhD program this Fall under Professor Wu-Jung Lee at the Applied Physics Laboratory. I look forward to applying my undergraduate experience to study the sensorimotor processes in animal echolocation to uncover engineering design principles for active sensing technologies.
+I will be joining the University of Washington's ECE PhD program this Fall under Professor Wu-Jung Lee at the Applied Physics Laboratory. I look forward to applying my undergraduate experience to study the sensorimotor processes in animal echolocation to uncover engineering design principles for active sensing systems.
 
 Feel free to ask me any questions at my email on pursuing research as an undergraduate!
