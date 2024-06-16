@@ -35,6 +35,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Senior capstone projects** were projects that had to be ideated, proposed, and prototyped in a 10-week quarter.
 
 ### Description:
 The EE 461 Neural Engineering Tech Studio taught by Professor Kim Ingraham was a fast-paced design course with the goal to ideate, build, and pitch a closed-loop neural product to a panel of industry experts and medical professionals in a end-of-course competition. My group of 5 members came together and ideated a system that would help users manage and reduce their teeth grinding/clenching habits. 

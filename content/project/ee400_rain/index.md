@@ -35,6 +35,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Senior capstone projects** were projects that had to be ideated, proposed, and prototyped in a 10-week quarter.
 
 ### Description:
 The EE 400 TinyML course taught by Professor Radha Poovendran was a fantastic opportunity to study embedded machine learning and become acquainted with several applications in the rising field of TinyML to develop smart edge devices capable of doing on-board inference. My partner, [Pujan Patel](https://www.linkedin.com/in/pujan-patel-0535a1217/), and I decided to develop a rain prediction system using the Arduino Nano 33 BLE to read low-cost environmental variables such as temperature, pressure, and relative humidity and predict the occurence of rain in the coming period. 
