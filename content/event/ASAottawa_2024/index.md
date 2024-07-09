@@ -1,5 +1,5 @@
 ---
-title: Investigation of Duty Cycles for Measuring Activity in Passive Acoustic Bat Monitoring
+title: Investigation of duty cycles for measuring activity in passive acoustic bat monitoring
 
 event: The 186th Meeting of the Acoustical Society of America
 event_url: https://expo.uw.edu/expo/apply/676/proceedings
